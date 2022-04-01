@@ -1,0 +1,13 @@
+{
+  "name": "xbacked-keepers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hmccreanor/xBackedKeepersHackAlgo.git",
+  "author": "hmccreanor <hmccreanor1@tribeig.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@xbacked-dao/xbacked-sdk": "^0.0.28",
+    "dotenv": "^16.0.0"
+  },
+  "type": "module"
+}
